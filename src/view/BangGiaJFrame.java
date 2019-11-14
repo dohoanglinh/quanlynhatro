@@ -11,9 +11,7 @@ package view;
  */
 public class BangGiaJFrame extends javax.swing.JFrame {
 
-    /**
-     * Creates new form BangGiaJFrame
-     */
+ 
     public BangGiaJFrame() {
         initComponents();
     }
